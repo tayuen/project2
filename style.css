@@ -1,0 +1,40 @@
+body {
+     background-attachment: fixed;
+     background-size: cover;
+     text-align: center;
+     background-color: #00FFFF;
+}
+ h1{
+     font-style:normal;
+     font-family:"arial;
+     color: inherit;
+     text-align:right;
+     color: Black;
+}
+ h2 {
+     text-align: right;
+}
+ h3{
+     text-align:right;
+}
+ h4{
+     text-align:right;
+}
+ p{
+     text-align:right;
+     font-variant: normal;
+     font-size: 1.5em;
+     font-family: Arial, sans-serif;
+}
+ ul{
+     font-family: arial,sans-serif;
+     text-align: left;
+     list-style-type: square;
+     list-style-position:inherit;
+}
+ #nav{
+     position:absolute;
+     display:inline-block;
+     text-align: right;
+     padding:5px;
+}
