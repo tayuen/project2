@@ -26,7 +26,7 @@ body {
 }
  ul{
      font-family: arial,sans-serif;
-     text-align: left;
+     text-align: center;
      list-style-type: square;
      list-style-position:inherit;
 }
