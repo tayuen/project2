@@ -33,6 +33,6 @@ body {
  #nav{
      position:absolute;
      display:inline-block;
-     text-align: left;
+     text-align: right;
      padding:10px;
 }
