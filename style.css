@@ -25,7 +25,7 @@ body {
 }
  ul{
      font-family: arial,sans-serif;
-     text-align: left;
+     text-align: right;
      list-style-type: square;
      list-style-position:inherit;
 }
